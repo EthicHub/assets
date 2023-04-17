@@ -3507,10 +3507,20 @@
             "decimals": 18,
             "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xB0c7a3Ba49C7a6EaBa6cD4a96C55a1391070Ac9A/logo.png",
             "pairs": []
-        }
+        },
+        {
+            "asset": "c60_t0xFd09911130e6930Bf87F2B0554c44F400bD80D3e",
+            "type": "ERC20",
+            "address": "0xFd09911130e6930Bf87F2B0554c44F400bD80D3e",
+            "name": "Ethix",
+            "symbol": "ETHIX",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xFd09911130e6930Bf87F2B0554c44F400bD80D3e/logo.png",
+            "pairs": []
+         }
     ],
     "version": {
-        "major": 14,
+        "major": 15,
         "minor": 0,
         "patch": 0
     }

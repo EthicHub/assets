@@ -1,0 +1,58 @@
+{
+    "name": "Ethix",
+    "symbol": "ETHIX",
+    "type": "ERC20",
+    "decimals": 18,
+    "website": "https://ethichub.com",
+    "explorer": "https://etherscan.io/token/0xFd09911130e6930Bf87F2B0554c44F400bD80D3e",
+    "status": "active",
+    "id": "0xFd09911130e6930Bf87F2B0554c44F400bD80D3e",
+    "links": [
+        {
+            "name": "dapp",
+            "url": "https://ethix.ethichub.com"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/ethichub"
+        },
+        {
+            "name": "gitlab",
+            "url": "https://gitlab.com/EthicHub"
+        },
+        {
+            "name": "youtube",
+            "url": "https://www.youtube.com/channel/UCxLXFp8x93-ua34yZdHR-lA"
+        },
+        {
+            "name": "facebook",
+            "url": "https://www.facebook.com/EthicHubPlatform"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/ethichub"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.io/Ethichub"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/ethichub"
+        },
+        {
+            "name": "linkedin",
+            "url": "https://www.linkedin.com/company/ethichub/"
+        },
+        {
+            "name": "instagram",
+            "url": "https://www.instagram.com/ethichub/"
+        }
+    ],
+    "tags": [
+        "refi",
+        "impact",
+        "lending",
+        "earn"
+    ]
+}
