@@ -7,26 +7,23 @@
     "explorer": "https://etherscan.io/token/0xFd09911130e6930Bf87F2B0554c44F400bD80D3e",
     "status": "active",
     "id": "0xFd09911130e6930Bf87F2B0554c44F400bD80D3e",
+    "description": "EthicHub connects DeFi to the real world: crowdlending backed by crowd-collateral for the unbanked farmers excluded from TradFi.",
     "links": [
-        {
-            "name": "dapp",
-            "url": "https://ethix.ethichub.com"
-        },
         {
             "name": "twitter",
             "url": "https://twitter.com/ethichub"
         },
         {
-            "name": "gitlab",
+            "name": "source_code",
             "url": "https://gitlab.com/EthicHub"
         },
         {
             "name": "youtube",
-            "url": "https://www.youtube.com/channel/UCxLXFp8x93-ua34yZdHR-lA"
+            "url": "https://youtube.com/channel/UCxLXFp8x93-ua34yZdHR-lA"
         },
         {
             "name": "facebook",
-            "url": "https://www.facebook.com/EthicHubPlatform"
+            "url": "https://facebook.com/EthicHubPlatform"
         },
         {
             "name": "medium",
@@ -34,19 +31,23 @@
         },
         {
             "name": "discord",
-            "url": "https://discord.io/Ethichub"
+            "url": "https://discord.com/Ethichub"
         },
         {
             "name": "telegram",
             "url": "https://t.me/ethichub"
         },
         {
-            "name": "linkedin",
-            "url": "https://www.linkedin.com/company/ethichub/"
+            "name": "coingecko",
+            "url": "https://coingecko.com/es/monedas/ethichub"
         },
         {
-            "name": "instagram",
-            "url": "https://www.instagram.com/ethichub/"
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/ethichub/"
+        },
+        {
+            "name": "docs",
+            "url": "https://docs-ethix.ethichub.com/"
         }
     ],
     "tags": [
