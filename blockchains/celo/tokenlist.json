@@ -1,0 +1,21 @@
+{
+    "name": "Trust Wallet: Celo",
+    "logoURI": "https://trustwallet.com/assets/images/favicon.png",
+    "timestamp": "2023-04-18T12:27:06.885038",
+    "tokens": [
+        {
+            "asset": "c52752_t0x9995cc8F20Db5896943Afc8eE0ba463259c931ed",
+            "type": "CELO",
+            "address": "0x9995cc8F20Db5896943Afc8eE0ba463259c931ed",
+            "name": "Ethix",
+            "symbol": "ETHIX",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/celo/assets/0x9995cc8F20Db5896943Afc8eE0ba463259c931ed/logo.png"
+        }
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    }
+}

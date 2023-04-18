@@ -1,12 +1,12 @@
 {
     "name": "Ethix",
     "symbol": "ETHIX",
-    "type": "ERC20",
+    "type": "CELO",
     "decimals": 18,
     "website": "https://ethichub.com",
-    "explorer": "https://etherscan.io/token/0xFd09911130e6930Bf87F2B0554c44F400bD80D3e",
+    "explorer": "https://explorer.bitquery.io/celo_rc1/token/0x9995cc8F20Db5896943Afc8eE0ba463259c931ed",
     "status": "active",
-    "id": "0xFd09911130e6930Bf87F2B0554c44F400bD80D3e",
+    "id": "0x9995cc8F20Db5896943Afc8eE0ba463259c931ed",
     "description": "EthicHub connects DeFi to the real world: crowdlending backed by crowd-collateral for the unbanked farmers excluded from TradFi.",
     "links": [
         {
